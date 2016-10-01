@@ -1,7 +1,7 @@
 <?php
 	
-	/*
-$email = $_REQUEST['email'] ;
+/*
+	$email = $_REQUEST['email'] ;
 	$message = $_REQUEST['message'] ;
 */
 	
